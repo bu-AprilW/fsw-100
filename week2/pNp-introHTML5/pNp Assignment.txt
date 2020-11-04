@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Website</title>
+    </head>
+    <body>
+        <div>
+            <h1>Images</h1>
+            <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2019/04/000-Basic-HTML-Codes.jpg"width="200px"/>
+            <img src="https://miro.medium.com/max/800/1*28-1lYrYTQoLhi87mllgBw.png"width="100px"/>
+            <img src="https://i.morioh.com/6575a3b261.png"width="200px"/>
+        </div>
+        <div>
+            <h2>Links</h2>
+            <a href="https://www.google.com">Google</a>
+            <a href="https://www.yahoo.com">Yahoo</a>
+            <a href="https://www.bing.com">Bing</a>
+        </div>
+        <div>
+            <h3>Content</h3>
+            <p>This is where the text in a paragraph will go.</p>
+        </div>
+        <div>
+            <h4>Color Text</h4>
+            <p>I have big <span style="color:blue">blue</span> eyes.</p>
+        </div>
+        <div>
+            <h5>Organized</h5>
+            <ol>
+                <li>Time Management</li>
+                <li>Consistant Practice</li>
+                <li>Ask Questions</li>
+            </ol>
+        </div>
+        <div>
+            <h6>Unorganized</h6>
+            <ul>
+                <li>Time Management</li>
+                <li>Consistant Practice</li>
+                <li>Ask Questions</li>
+            </ul>
+        </div>
+    </body>
+</html>
