@@ -1,0 +1,30 @@
+.main-headline {
+    color: blue;
+}
+
+nav {
+    border-bottom: 1px solid black;
+}
+
+.where ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.here {
+    display: inline-block;
+}
+
+.here {
+    display: inline-block;
+    color: teal;
+    content: '*';
+    font-size: 75%;
+    font-weight: bold;
+    padding: 0 3px;
+}
+
+/* table, th, td, tr {
+    border: 1px solid black;
+} */
+
