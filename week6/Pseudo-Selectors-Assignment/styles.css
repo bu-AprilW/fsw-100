@@ -1,0 +1,76 @@
+.box {
+    display: grid;
+    width: 497px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px 2em;
+}
+
+.teal {
+    background-color: teal;
+    border: 5px solid black;
+}
+
+.lightcoral {
+    background-color: lightcoral;
+    border: 5px solid black;
+}
+
+.green {
+    background-color: green;
+    border: 5px solid black;
+}
+
+.blue {
+    background-color: blue;
+    border: 5px solid black;
+}
+
+.purple {
+    background-color: purple;
+    border: 5px solid black;
+}
+
+.orange {
+    background-color: orange;
+    border: 5px solid black;
+}
+
+h3 {
+    font-size: 30px;
+    color: #000;
+}
+
+.teal:hover {
+    background-color: gray;
+    border: dotted teal;
+}
+
+.lightcoral:hover {
+    background-color: gray;
+    border: dashed lightcoral;
+    opacity: 0.5;
+}
+
+.green:hover {
+    background-color: gray;
+    border: solid green;
+    height: 300px;
+}
+
+.blue:hover {
+    background-color: gray;
+    border: dotted blue;
+    width: 100px;
+}
+
+.purple:hover {
+    background-color: gray;
+    border: dashed purple;
+    box-shadow: color cornflowerblue;
+}
+
+.orange:hover  {
+    background-color: gray;
+    border: solid orange;
+    
+}
